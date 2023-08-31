@@ -1,4 +1,6 @@
-📊 My IITM BDM Capstone Project: Revitalizing Revenue:  Data-Driven Strategies for stable growth in a Small-Town Stationery Business. 📚
+📊 **My IITM BDM Capstone Project:-**
+
+📚Revitalizing Revenue: Data-Driven Strategies for stable growth in a Small-Town Stationery Business. 
 
 Dive into my data-driven journey where I collected, cleaned, and preprocessed primary data from a local stationary store. 
 
